@@ -1,0 +1,125 @@
+{
+  "prompt_type": "ai_video_generation",
+  "video_title": "The Evolution of Humans",
+  "video_style": {
+    "genre": "educational documentary",
+    "visual_style": "cinematic realistic animation",
+    "tone": "inspiring, educational, and futuristic",
+    "color_palette": "natural earth tones evolving into modern vibrant colors"
+  },
+  "target_audience": {
+    "age_group": "10+",
+    "knowledge_level": "general audience"
+  },
+  "video_settings": {
+    "duration": "2-5 minutes",
+    "resolution": "4K",
+    "aspect_ratio": "16:9",
+    "frame_rate": "24fps"
+  },
+  "scene_flow": [
+    {
+      "scene": 1,
+      "title": "Beginning of Life",
+      "description": "Show ancient Earth millions of years ago with forests, oceans, volcanoes, and early primates living in nature.",
+      "camera_motion": "slow cinematic aerial shot",
+      "sound_effects": [
+        "wind",
+        "birds",
+        "jungle ambience"
+      ]
+    },
+    {
+      "scene": 2,
+      "title": "Early Human Ancestors",
+      "description": "Transition from ape-like ancestors to Australopithecus walking upright in African grasslands.",
+      "camera_motion": "side tracking shot",
+      "visual_effects": [
+        "smooth morphing evolution transition",
+        "dust particles",
+        "sunrise lighting"
+      ]
+    },
+    {
+      "scene": 3,
+      "title": "Discovery of Tools",
+      "description": "Show Homo habilis creating primitive stone tools and learning survival techniques.",
+      "camera_motion": "close-up cinematic shots",
+      "sound_effects": [
+        "stone cracking",
+        "fire sparks"
+      ]
+    },
+    {
+      "scene": 4,
+      "title": "Mastery of Fire",
+      "description": "Depict Homo erectus discovering fire and gathering around flames at night.",
+      "camera_motion": "slow zoom around fire",
+      "lighting": "warm orange fire glow"
+    },
+    {
+      "scene": 5,
+      "title": "Neanderthals",
+      "description": "Show Neanderthals hunting in snowy environments and living in caves.",
+      "camera_motion": "handheld documentary style",
+      "environment": "ice age landscape"
+    },
+    {
+      "scene": 6,
+      "title": "Rise of Homo Sapiens",
+      "description": "Show modern humans developing language, art, agriculture, and communities.",
+      "camera_motion": "wide cinematic shots",
+      "visual_elements": [
+        "cave paintings",
+        "villages",
+        "farming"
+      ]
+    },
+    {
+      "scene": 7,
+      "title": "Modern Civilization",
+      "description": "Transition rapidly from ancient cities to modern skyscrapers, technology, AI, robotics, and space exploration.",
+      "camera_motion": "fast hyperlapse transition",
+      "visual_effects": [
+        "time-lapse city growth",
+        "digital holograms",
+        "futuristic transitions"
+      ]
+    },
+    {
+      "scene": 8,
+      "title": "Future of Humanity",
+      "description": "Show futuristic humans exploring space, advanced AI collaboration, and sustainable futuristic cities.",
+      "camera_motion": "epic cinematic fly-through",
+      "mood": "hopeful and visionary"
+    }
+  ],
+  "narration": {
+    "voice_style": "deep cinematic narrator",
+    "language": "English",
+    "subtitle": true
+  },
+  "background_music": {
+    "style": "orchestral cinematic",
+    "mood_progression": [
+      "mysterious",
+      "adventurous",
+      "epic",
+      "hopeful"
+    ]
+  },
+  "transition_style": {
+    "type": "smooth cinematic morphing",
+    "speed": "medium"
+  },
+  "creative_guidelines": {
+    "focus_on_visual_storytelling": true,
+    "scientifically_inspired": true,
+    "avoid_graphic_violence": true,
+    "high_detail_environment": true
+  },
+  "final_scene": {
+    "description": "A human silhouette transforms into a futuristic explorer looking at Earth from space.",
+    "text_overlay": "Human Evolution: From Survival to Innovation"
+  }
+}

@@ -1,0 +1,145 @@
+ {
+
+  "prompt": {
+
+    "theme": "Evolution of Man Through the Ages",
+
+    "style": "ultra realistic, cinematic, educational documentary style",
+
+    "composition": {
+
+      "layout": "horizontal timeline showing continuous human evolution from prehistoric ancestors to modern humans",
+
+      "camera_view": "side profile progression",
+
+      "transition": "smooth transformation from ape-like ancestors to advanced modern humans"
+
+    },
+
+    "stages": [
+
+      {
+
+        "era": "Prehistoric Ancestors",
+
+        "appearance": "ape-like early hominids with primitive features, hairy bodies, crouched posture",
+
+        "environment": "dense jungles, rocky caves, wild nature"
+
+      },
+
+      {
+
+        "era": "Stone Age Humans",
+
+        "appearance": "early humans using stone tools, wearing animal skins, discovering fire",
+
+        "environment": "caves, forests, hunting scenes"
+
+      },
+
+      {
+
+        "era": "Agricultural Age",
+
+        "appearance": "humans farming land, domesticating animals, building small villages",
+
+        "environment": "green fields, mud houses, rivers"
+
+      },
+
+      {
+
+        "era": "Ancient Civilizations",
+
+        "appearance": "advanced humans wearing traditional historical clothing, building kingdoms and monuments",
+
+        "environment": "temples, pyramids, ancient cities"
+
+      },
+
+      {
+
+        "era": "Industrial Revolution",
+
+        "appearance": "workers and inventors in 18th–19th century clothing",
+
+        "environment": "factories, steam engines, urban growth"
+
+      },
+
+      {
+
+        "era": "Modern Age",
+
+        "appearance": "modern humans using smartphones, laptops, and advanced technology",
+
+        "environment": "modern smart cities with skyscrapers and vehicles"
+
+      },
+
+      {
+
+        "era": "Future Humanity",
+
+        "appearance": "futuristic evolved humans with advanced AI integration and sleek clothing",
+
+        "environment": "cyberpunk futuristic city, holograms, space technology"
+
+      }
+
+    ],
+
+    "lighting": {
+
+      "type": "dynamic cinematic lighting",
+
+      "effects": "gradual transition from natural primitive tones to bright futuristic neon glow"
+
+    },
+
+    "details": {
+
+      "quality": "8k ultra detailed",
+
+      "textures": "realistic skin, clothing, environments, and atmospheric effects",
+
+      "mood": "inspiring, educational, epic",
+
+      "depth": "high depth of field with cinematic perspective"
+
+    },
+
+    "color_palette": {
+
+      "early_ages": "earthy brown, green, dark tones",
+
+      "modern_age": "balanced realistic colors",
+
+      "future_age": "blue neon, silver, futuristic tones"
+
+    },
+
+    "negative_prompt": [
+
+      "low quality",
+
+      "cartoon style",
+
+      "deformed anatomy",
+
+      "blurry details",
+
+      "text watermark",
+
+      "duplicate characters",
+
+      "distorted faces",
+
+      "oversaturated colors"
+
+    ]
+
+  }
+
+}
